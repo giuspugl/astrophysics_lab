@@ -1,3 +1,4 @@
 *.fits
 *.csv.gz
 *.dat
+*.ipynb_checkpoints/
