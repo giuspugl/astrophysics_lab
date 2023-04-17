@@ -16,7 +16,7 @@ then make a new conda environment :
 `conda create -n astrolab`
  and install the following  `python packages`: 
  
- - `conda install numpy scipy matplotlib jupyter astropy` 
+ - `conda install numpy scipy matplotlib jupyter astropy sympy` 
  - jupyterlab `conda install -c conda-forge jupyterlab`
  - healpy `conda install -c conda-forge healpy` 
  
