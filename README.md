@@ -5,7 +5,7 @@ This repo  encodes several jupyter notebooks  aimed at familiarizing Astrophysic
 
 
 ### Using Google Co-Lab 
-https://colab.research.google.com/ 
+Load the notebook of each class here:  https://colab.research.google.com/ 
  
 
 ### Running locally 
@@ -14,10 +14,11 @@ Firstly make sure you've an updated version of conda.
 
 then make a new conda environment : 
 `conda create -n astrolab`
+
  and install the following  `python packages`: 
  
  - `conda install numpy scipy matplotlib jupyter astropy sympy` 
  - jupyterlab `conda install -c conda-forge jupyterlab`
  - healpy `conda install -c conda-forge healpy` 
- 
+ - wget `pip install wget` 
  
