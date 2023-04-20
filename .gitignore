@@ -2,3 +2,5 @@
 *.csv.gz
 *.dat
 *.ipynb_checkpoints/
+*.zip
+.DS_Store
