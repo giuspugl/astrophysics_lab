@@ -21,4 +21,15 @@ then make a new conda environment :
  - jupyterlab `conda install -c conda-forge jupyterlab`
  - healpy `conda install -c conda-forge healpy` 
  - wget `pip install wget` 
+
+## Syllabus 
+
+0. Familiarizing with Python numerical analysis routines
+1. The `astropy` package, units, constants, accessing data
+2. Analyzing astrophysical images, pixelization schemes 
+3. Intro to Fourier transforms  and convolutions 
+4. Analysis of Solar Observatory data
+5. Analysis of exo-planet light curves 
+6. Observations nights 
+7. Visit to Noto Radio Antenna 
  
